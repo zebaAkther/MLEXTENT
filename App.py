@@ -4,7 +4,6 @@ from mlxtend.preprocessing import TransactionEncoder
 from mlxtend.frequent_patterns import apriori, association_rules
 import matplotlib.pyplot as plt
 from wordcloud import WordCloud
-import squarify
 import seaborn as sns
 
 # Page title
